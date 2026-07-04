@@ -1,0 +1,1 @@
+{"name":"Local: U_Some_Sums","url":"d:\\CodeForces\\loop\\U_Some_Sums.c","tests":[{"id":1783177367854,"input":"20 2 5","output":"84"},{"id":1783177388674,"input":"10 1 2","output":"13"},{"id":1783177411774,"input":"100 4 16","output":"4554"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\loop\\U_Some_Sums.c","group":"local","local":true}

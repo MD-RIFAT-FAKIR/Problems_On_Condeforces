@@ -31,4 +31,6 @@ int main(){
         //new line after every outerloop iteration
         printf("\n");
     }
+
+    return 0;
 }
