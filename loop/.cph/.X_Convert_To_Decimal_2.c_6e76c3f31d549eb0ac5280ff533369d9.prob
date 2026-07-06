@@ -1,0 +1,1 @@
+{"name":"Local: X_Convert_To_Decimal_2","url":"d:\\CodeForces\\loop\\X_Convert_To_Decimal_2.c","tests":[{"id":1783310184822,"input":"3\n10\n7\n8","output":"3\n7\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\loop\\X_Convert_To_Decimal_2.c","group":"local","local":true}

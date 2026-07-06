@@ -12,7 +12,6 @@ int main() {
         return 0;
     }
 
-    //check divisor if found any then flag increment by 1
     for(int i=2; i*i<=X; i++) {//loop will iterate till root square of X
         if(X%i == 0) {
             printf("NO\n");// if get any divisor 
