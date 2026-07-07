@@ -1,0 +1,1 @@
+{"name":"Local: G_Palindrome_Array","url":"d:\\CodeForces\\array\\G_Palindrome_Array.c","tests":[{"id":1783449012475,"input":"5\n1 3 2 3 1","output":"YES"},{"id":1783449044703,"input":"4\n1 2 3 4","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\array\\G_Palindrome_Array.c","group":"local","local":true}
