@@ -1,0 +1,1 @@
+{"name":"Local: J_Lucky_Array","url":"d:\\CodeForces\\array\\J_Lucky_Array.c","tests":[{"id":1783543750949,"input":"5\n1 2 1 4 1","output":"Lucky"},{"id":1783543807191,"input":"5\n4 2 5 2 7","output":"Unlucky"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\array\\J_Lucky_Array.c","group":"local","local":true}
