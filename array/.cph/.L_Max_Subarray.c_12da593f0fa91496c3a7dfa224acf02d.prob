@@ -1,0 +1,1 @@
+{"name":"Local: L_Max_Subarray","url":"d:\\CodeForces\\array\\L_Max_Subarray.c","tests":[{"id":1783787130374,"input":"2\n3\n3 1 2\n4\n1 6 3 7","output":"3 3 3 1 2 2 \n1 6 6 7 6 6 7 3 7 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\array\\L_Max_Subarray.c","group":"local","local":true}
