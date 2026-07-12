@@ -1,0 +1,1 @@
+{"name":"Local: P_Minimize_Number","url":"d:\\CodeForces\\array\\P_Minimize_Number.c","tests":[{"id":1783873946374,"input":"3\n8 12 40","output":"2"},{"id":1783873962605,"input":"4\n5 6 8 12","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\array\\P_Minimize_Number.c","group":"local","local":true}
