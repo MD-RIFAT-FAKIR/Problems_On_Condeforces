@@ -1,0 +1,1 @@
+{"name":"Local: Q_Count_Subarrays","url":"d:\\CodeForces\\array\\Q_Count_Subarrays.c","tests":[{"id":1784032232581,"input":"2\n5\n1 4 2 3 5\n1\n9","output":"9\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\array\\Q_Count_Subarrays.c","group":"local","local":true}
