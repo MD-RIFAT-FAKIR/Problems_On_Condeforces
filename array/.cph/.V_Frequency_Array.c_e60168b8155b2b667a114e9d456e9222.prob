@@ -1,0 +1,1 @@
+{"name":"Local: V_Frequency_Array","url":"d:\\CodeForces\\array\\V_Frequency_Array.c","tests":[{"id":1784168130699,"input":"10 5\n1 2 3 4 5 3 2 1 5 3\n","output":"2\n2\n3\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\array\\V_Frequency_Array.c","group":"local","local":true}
