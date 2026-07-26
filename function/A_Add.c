@@ -6,12 +6,13 @@ int sum(int a, int b) {//funcion definition
 
 int main() {
     //taking input nubers
-    short int firstNumber, secondNumber;
-    scanf("%hd %hd", &firstNumber, &secondNumber);
+    int firstNumber, secondNumber;
+    scanf("%d %d", &firstNumber, &secondNumber);
 
     int result = sum(firstNumber, secondNumber);//call function
 
     printf("%d", result);
+
 
     return 0;
 }
