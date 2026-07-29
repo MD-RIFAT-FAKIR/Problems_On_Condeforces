@@ -1,0 +1,1 @@
+{"name":"Local: D_Prime_Function","url":"d:\\CodeForces\\function\\D_Prime_Function.c","tests":[{"id":1785320574618,"input":"3\n2\n4\n\n8","output":"YES\nNO \nNO "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\function\\D_Prime_Function.c","group":"local","local":true}
