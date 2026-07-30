@@ -1,0 +1,1 @@
+{"name":"Local: K_Shift_Right","url":"d:\\CodeForces\\function\\K_Shift_Right.c","tests":[{"id":1785391450681,"input":"2 2\n2 1","output":"2 1"},{"id":1785391467010,"input":"5 21\n1 2 3 4 5","output":"5 1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CodeForces\\function\\K_Shift_Right.c","group":"local","local":true}
